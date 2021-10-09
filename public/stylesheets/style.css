@@ -35,3 +35,25 @@ p {
   font: 14px Lora, sans-serif;
   color: #ffffff;
 }
+
+.heading_about {
+  color: #ffffff;
+}
+
+.about_image {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 50px;
+  border-radius: 20%;
+}
+
+.about_description {
+  color: #ffffff;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}

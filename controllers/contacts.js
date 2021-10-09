@@ -1,9 +1,9 @@
 var express = require('express');
 var router = express.Router();
 
-/* GET projects page. */
+/* GET contacts page. */
 router.get('/', function(req, res, next) {
-    res.render('about/index', { title: 'About Ujjwal Gaba' });
+    res.render('contacts/index', { title: 'Contact Me' });
 });
 
 

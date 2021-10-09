@@ -1,8 +1,37 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px Lora, sans-serif;
 }
 
 a {
   color: #00B7FF;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+h3 {
+  font-size: 40px;
+  padding-top: 10px;
+}
+
+p {
+  font-size: 25px;
+  padding-top: 20px;
+}
+
+
+.home {
+  width: 1420px;
+  height: 700px;
+}
+
+.content {
+  text-align: center;
+  padding-top: 250px;
+  font: 14px Lora, sans-serif;
+  color: #ffffff;
 }

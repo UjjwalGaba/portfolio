@@ -57,3 +57,90 @@ p {
   padding-top: 20px;
   padding-bottom: 100px;
 }
+
+.heading_project {
+  color: #ffffff;
+}
+
+.project_card {
+  float: left;
+  width: 30%;
+  background-color: #ffffff;
+  margin: 21px;
+  padding: 10px;
+  text-align: center;
+}
+
+.project_image {
+  width: 400px;
+  height: 200px;
+}
+
+.project_details {
+  font: 20px sans-serif;
+}
+
+.project {
+  padding-bottom: 500px;
+}
+
+a:hover {
+  font-size: 125%;
+}
+
+.project_card:hover {
+  font-size: 120%;
+}
+
+.heading_contact {
+  color: #ffffff;
+}
+
+.form_elements {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  background-color: #ffffff;
+  width: 40%;
+  font: 20px Lora, SansSerif;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.form_group {
+  padding: 10px;
+  text-align: left;
+}
+
+input {
+  width: 450px;
+  border-radius: 10px;
+}
+
+input:hover {
+  background-color: aliceblue;
+  font-size: 120%;
+}
+
+textarea:hover {
+  background-color: aliceblue;
+  font-size: 120%;
+}
+
+textarea {
+  width: 450px;
+  border-radius: 10px;
+}
+
+.form_group_btn {
+  text-align: center;
+  padding: 20px;
+}
+
+button:hover {
+  font-size: 140%;
+}
+
+.contact {
+  padding-bottom: 100px;
+}
